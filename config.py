@@ -1,4 +1,4 @@
-token = 'input your token'
+token = '7874457774:AAFovR2I0EcI3eCkjGjAKIqnP3B8yVrd5j8'
 provider_token = ''  # @BotFather -> Bot Settings -> Payments
 admin_chat = 0  # token of admin chat
 database_name = 'bot.db'
